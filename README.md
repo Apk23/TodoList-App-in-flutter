@@ -2,6 +2,8 @@
 
 A everyday todo list
 
+<img src = "screenshots/1.png" height = "400">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
